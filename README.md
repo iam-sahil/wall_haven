@@ -2,7 +2,10 @@
 
 Wall Haven Wallpaper Search is a responsive wallpaper website that allows you to search for high‑quality wallpapers using the Pixabay API. The site features a dynamic masonry grid layout, infinite scrolling, smooth animations, and the ability to download and save your favorite wallpapers locally.
 
+## Homepage
 ![screenshot](wall_haven_home.png)
+
+## Favourites Page 
 ![screenshot](wall_haven_fav.png)
 
 ## Features
